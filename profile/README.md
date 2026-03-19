@@ -1,4 +1,4 @@
-# Viscept: Tales of AI
+# Neta.art: Tales of AI
 
 We build open tools for AI-native creation, worldbuilding, and creative workflows.
 
@@ -27,7 +27,7 @@ If you want to contribute, start with the README and open issues in the repo you
 
 ---
 
-# 看见概念
+# 捏Ta
 
 我们在做面向 AI 原生创作、世界构建和创意工作流的开源工具。
 
